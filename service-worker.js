@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/GH-countdown-clock/precache-manifest.5a351c98fecff2df7c3c73772aff8d3b.js"
+  "/GH-countdown-clock/precache-manifest.c7d5c8d0f9c98b1c5848305d05104fac.js"
 );
 
 self.addEventListener('message', (event) => {
