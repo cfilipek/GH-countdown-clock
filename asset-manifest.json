@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GH-countdown-clock/static/css/main.50f4e69a.chunk.css",
-    "main.js": "/GH-countdown-clock/static/js/main.b99e8744.chunk.js",
-    "main.js.map": "/GH-countdown-clock/static/js/main.b99e8744.chunk.js.map",
+    "main.css": "/GH-countdown-clock/static/css/main.67d28d80.chunk.css",
+    "main.js": "/GH-countdown-clock/static/js/main.538cc1eb.chunk.js",
+    "main.js.map": "/GH-countdown-clock/static/js/main.538cc1eb.chunk.js.map",
     "runtime~main.js": "/GH-countdown-clock/static/js/runtime~main.b3fab60e.js",
     "runtime~main.js.map": "/GH-countdown-clock/static/js/runtime~main.b3fab60e.js.map",
     "static/js/2.7196c04f.chunk.js": "/GH-countdown-clock/static/js/2.7196c04f.chunk.js",
     "static/js/2.7196c04f.chunk.js.map": "/GH-countdown-clock/static/js/2.7196c04f.chunk.js.map",
     "index.html": "/GH-countdown-clock/index.html",
-    "precache-manifest.ca6c6884eca1685762490378ed4b42bb.js": "/GH-countdown-clock/precache-manifest.ca6c6884eca1685762490378ed4b42bb.js",
+    "precache-manifest.2a9f02f16d91956ebb23eac5fbe40521.js": "/GH-countdown-clock/precache-manifest.2a9f02f16d91956ebb23eac5fbe40521.js",
     "service-worker.js": "/GH-countdown-clock/service-worker.js",
-    "static/css/main.50f4e69a.chunk.css.map": "/GH-countdown-clock/static/css/main.50f4e69a.chunk.css.map"
+    "static/css/main.67d28d80.chunk.css.map": "/GH-countdown-clock/static/css/main.67d28d80.chunk.css.map"
   }
 }
